@@ -5,6 +5,5 @@
 <hr>
 
 ## About Me:
-```shell
+
 Proactive and personable job seeker currently pursuing B.Tech in ECE from Bharati Vidyapeeth's College of Engineering in Paschim Vihar, New Delhi. Excellent written and oral communication skills. I believe my enthusiasm and specialized experience would make me an asset to your team.
-```
