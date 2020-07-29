@@ -15,7 +15,7 @@ Proactive and personable job seeker currently pursuing B.Tech in ECE from Bharat
 
 ## Languages:
 
-![Generic badge](https://img.shields.io/badge/-JAVA-orange.svg)
+![](https://img.shields.io/badge/-JAVA-orange.svg)
 ![Generic badge](https://img.shields.io/badge/-JavaScript-yellow.svg)
 ![Generic badge](https://img.shields.io/badge/-HTML5-red.svg)
 ![Generic badge](https://img.shields.io/badge/-CSS3-lightblue.svg)
