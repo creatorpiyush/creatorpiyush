@@ -1,4 +1,4 @@
-# Hi, I'm [Piyush Anand](https://www.piyushanand.in){:target="_blank"} 😁
+# Hi, I'm [Piyush Anand](https://www.piyushanand.in) 😁
 
 ### Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Piyush%20Anand-blue?style=flat&logo=azure-artifacts)](https://piyushanand.in)
