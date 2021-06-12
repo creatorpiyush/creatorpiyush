@@ -10,7 +10,7 @@
 
 ## About Me:
 
-Proactive and personable job seeker currently pursuing B.Tech in ECE from Bharati Vidyapeeth's College of Engineering in Paschim Vihar, New Delhi. Excellent written and oral communication skills. I believe my enthusiasm and specialized experience would make me an asset to your team.
+I'm a Full-Stack Web-Developer from India, who focused on creating clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me. I believe my enthusiasm and specialized experience would make me an asset to your team.
 
 <hr>
 
