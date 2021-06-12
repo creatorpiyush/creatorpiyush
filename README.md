@@ -1,9 +1,9 @@
 # Hi, I'm [Piyush Anand](https://www.piyushanand.in) 😁
 
 ### Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Piyush%20Anand-blue?style=flat&logo=azure-artifacts)](https://creatorpiyush.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Piyush%20Anand-blue?style=flat&logo=azure-artifacts)](https://piyushanand.in)
 [![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-%23D44638?style=flat&logo=Gmail&logoColor=white)](mailto:piyushanand.1221@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Connect%20with%20Me-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-anand-7394ab1a0/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Connect%20with%20Me-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.piyushanand.in/)
 [![](https://img.shields.io/badge/-My%20Resume-%230077B5?style=flat&color=red&logoColor=white)](https://resume.piyushanand.in)
 
 <hr>
@@ -15,9 +15,8 @@ Proactive and personable job seeker currently pursuing B.Tech in ECE from Bharat
 <hr>
 
 ## Languages & Skills:
-
-![Generic badge](https://img.shields.io/badge/-JAVA-orange.svg)
 ![Generic badge](https://img.shields.io/badge/-JavaScript-yellow.svg)
+![Generic badge](https://img.shields.io/badge/-JAVA-orange.svg)
 ![Generic badge](https://img.shields.io/badge/-HTML5-red.svg)
 ![Generic badge](https://img.shields.io/badge/-CSS3-lightblue.svg)
 ![Generic badge](https://img.shields.io/badge/-MySQL-blue.svg)
