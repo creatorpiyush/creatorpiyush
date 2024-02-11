@@ -10,7 +10,7 @@
 
 ## About Me:
 
-Proactive and personable job seeker currently pursuing B.Tech in ECE from Bharati Vidyapeeth's College of Engineering in Paschim Vihar, New Delhi. I am passionate about building excellent software that improves the lives of those around me. I believe my enthusiasm and specialised experience would make me an asset to your team.
+I'm passionate about creating amazing Software and Web applications that improve the lives of others around me. Currently employed for Nagarro Software Pvt. Ltd. in India as a Software Engineer.
 
 <hr>
 
