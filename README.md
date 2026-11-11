@@ -12,7 +12,7 @@
 
 ## About
 
-4+ years at Nagarro, Trainee to Associate Staff Engineer. I build AI tooling these days: MCP servers, RAG pipelines, and n8n automation for enterprise clients. Before that I shipped a Flutter loyalty app for a German airline with 36M+ installs and 7M+ active users.
+4+ years at Nagarro, Trainee to Associate Staff Engineer. I build AI tooling these days: MCP servers, RAG pipelines, and n8n automation for enterprise clients. I've also owned Node.js/TypeScript microservices on Azure for a large enterprise client. Before that I shipped a Flutter loyalty app for a German airline with 36M+ installs and 7M+ active users.
 
 - 🤖 Architected an **MCP server** that exposes tools and prompts over a client's internal ecosystem (Node.js, TypeScript, OpenShift)
 - ⚙️ Owned **2 microservices** end to end for a large enterprise client: user-migration and reconciliation jobs, plus service-to-service communication secured with **Microsoft Entra ID** (Node.js, TypeScript, Azure)
